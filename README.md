@@ -1,4 +1,4 @@
-#E-Voting System using Blockchain
+# E-Voting System using Blockchain
 Introduction
 Blockchain technology can be used to create a secure and transparent e-voting system. By leveraging the immutability and decentralization of blockchain, we can ensure that votes are recorded and counted accurately, and that the voting process is transparent and tamper-proof.
 
